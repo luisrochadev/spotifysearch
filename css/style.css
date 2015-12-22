@@ -1,0 +1,16 @@
+body{
+
+	background-color: #fcfcfc;
+}
+
+h1, h2, h3{
+
+}
+
+#q-results li {
+	cursor: pointer;
+}
+
+nav{
+	height: 100px;
+}
